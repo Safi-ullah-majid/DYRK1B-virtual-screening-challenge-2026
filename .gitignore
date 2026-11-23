@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.idea/
+.vscode/
+Drug-Design-workshop-challenge-2026/
+*.pdbqt
+lig.mol
+rec_clean.pdb
+8C2Z.pdb
+vina
+extra_train.csv
+dock_results.csv
+dock_pool.csv
+ranked_blind_set*.csv
+shape_scores.csv

@@ -1,0 +1,13 @@
+name: dyrk1b
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - rdkit
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - requests
+  - openbabel
+  - pip
